@@ -1,0 +1,35 @@
+@media (min-width: 1450px) {
+  body {
+    padding: 10em 20em;
+    display: flex;
+    align-items: center;
+  }
+  
+  main {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+  
+  #text {
+    padding: 2em;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  #text .name {
+    font-size: 38px;
+  }
+
+  .description {
+    font-size: 18px;
+  }
+
+  #text .price {
+    margin-bottom: 2em;
+  }
+  
+  #preview img {
+    border-radius: 0.5em 0 0 0.5em;
+  }
+}
