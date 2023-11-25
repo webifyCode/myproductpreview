@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://5erious5am.github.io/myproductpreview]
+- Live Site URL: [https://webifyCode.github.io/myproductpreview]
 
 ## My process
 
@@ -41,5 +41,5 @@ Users should be able to:
 
 ## Author
 
-- Github - [@5erious5am](https://github.com/5erious5am)
+- Github - [@webifyCode](https://github.com/webifyCode)
 - Frontend Mentor - [@5erious5am](https://www.frontendmentor.io/profile/5erious5am)
